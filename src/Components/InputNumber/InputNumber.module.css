@@ -1,0 +1,31 @@
+.input {
+    border: 0px;
+    height: 40px;
+    width: 50%;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    
+}
+
+.title{
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 15px;
+    text-align: left;
+}
+.container{
+    margin: 0 auto;
+    width: 30%;
+    color: black;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(240, 237, 237, 0.847);
+}
+.content{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(143, 238, 255, 0.464);
+
+}

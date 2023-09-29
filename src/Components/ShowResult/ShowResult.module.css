@@ -1,0 +1,16 @@
+.title{
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 3%;
+    padding-left: 15px;
+    text-align: left;
+}
+
+.result{
+    font-size: 30px;
+}
+.container{
+    padding: 5px;
+    border-radius: 20px;
+    height: 110%;
+}
